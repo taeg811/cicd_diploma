@@ -5,6 +5,7 @@ pipeline {
         stage('build') {
             steps {
                 echo '!!!Hello World!!!'
+                echo 'DIPLOMA HELLO'
             }
         }
     }
